@@ -74,7 +74,12 @@
           </div>
         </div>
       </section>
-
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
       <section class="especiliadades" id="especiliadades">
         <div class="interface">
           <h2 class="titulo">JÁ CONHECE A <span>CADEFI ?</span></h2>
@@ -178,10 +183,16 @@
           </div>
           <!--flex-->
         </div>
-        <!--interface-->
+        <!--interface-->4
+        
       </section>
       <!--sobre-->
-
+      <br>
+      <br>
+      <br>
+      <br>
+      
+        
       <h2 class="titulo">VIDAS QUE FORAM <span>TRANSFORMADAS</span> PELO PROJETO! </h2>
       <section class="portfolio" id="portfolio">
     <div class="menu" ref="menu">
@@ -309,8 +320,8 @@ export default {
         { imageUrl: 'https://lh3.googleusercontent.com/p/AF1QipMc6UHliP6nx-oOvddGxKQI-cnh5Zwzb3TURsI2=s680-w680-h510' },
         { imageUrl: 'https://lh3.googleusercontent.com/p/AF1QipNml2AsYMYDu1JOqp5TQYPi4CSff6I-083JlEbg=s680-w680-h510' },
         { imageUrl: 'https://lh3.googleusercontent.com/p/AF1QipOZyNNOZDP9JWem5-6NNWX8OFrZuxYG1QdusHKP=s680-w680-h510' },
-        { imageUrl: 'https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/435720570_843542027812656_6443901339236512822_n.jpg?stp=dst-jpg_p526x296&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RJtPqCeGXGYQ7kNvgHo7ukX&_nc_oc=Adh6n72_lMLas_KAYKzosgPeEmwoZEE0j5UdAbYeptrxJZrGGC6sWeZrlF0TXj4hHOY&_nc_ht=scontent-gru1-2.xx&oh=00_AfD0pavHs3pTZE35ybWjEFHB80oIHuFUTMgAtljvrTPWLw&oe=6640A512' },
-        { imageUrl: 'https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/432917847_837231211777071_9125783223007030248_n.jpg?stp=dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-3GxxGEkJdMQ7kNvgFIW7M3&_nc_ht=scontent-gru1-2.xx&oh=00_AfDhJhx5af0BSx1p1cjm1Dw6WkmNzTTXqPfk9ANG2-gYSw&oe=664097EB' },
+        { imageUrl: 'https://scontent.fcpq4-1.fna.fbcdn.net/v/t39.30808-6/294874170_430024389164424_708676550914121397_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHwqRhOFw_DWwVOAl5ItFuZyytKBK9gr5jLK0oEr2CvmK_vbyxVcDwB2Mduh79XXi06lLhw9K1GN_LSHMYXaemE&_nc_ohc=kCV-VQYz-PEQ7kNvgFGHubT&_nc_ht=scontent.fcpq4-1.fna&oh=00_AYDAF3uXH3sdcHeTPmytiuy-7a3RIf11tEhyAOwVyKHJsA&oe=667107FD' },
+        { imageUrl: 'https://portalhortolandia.com.br/wp-content/uploads/2021/01/CADEFI.jpg' },
       ],
       scrollSpeed: 0,
       oldScrollY: 0,
@@ -701,7 +712,7 @@ section.sobre .flex {
   z-index: 1;
   align-items: center;
   justify-content: center;
-  height: 60vh;
+  height:70vh;
 }
 
 .menu.is-dragging {
